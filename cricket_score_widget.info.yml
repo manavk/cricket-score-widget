@@ -1,0 +1,9 @@
+name: Cricket Score Widget
+description: 'Adds a Cricket Score Widget block to be placed on the site'
+package: 'Blocks'
+
+type: module
+core: 8.x
+
+dependencies:
+  - drupal:block
